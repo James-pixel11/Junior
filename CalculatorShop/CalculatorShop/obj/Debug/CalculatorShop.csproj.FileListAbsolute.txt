@@ -1,0 +1,8 @@
+C:\Users\Mukazika\Desktop\Project\CalculatorShop\CalculatorShop\bin\Debug\CalculatorShop.exe.config
+C:\Users\Mukazika\Desktop\Project\CalculatorShop\CalculatorShop\bin\Debug\CalculatorShop.exe
+C:\Users\Mukazika\Desktop\Project\CalculatorShop\CalculatorShop\bin\Debug\CalculatorShop.pdb
+C:\Users\Mukazika\Desktop\Project\CalculatorShop\CalculatorShop\obj\Debug\CalculatorShop.Form1.resources
+C:\Users\Mukazika\Desktop\Project\CalculatorShop\CalculatorShop\obj\Debug\CalculatorShop.Properties.Resources.resources
+C:\Users\Mukazika\Desktop\Project\CalculatorShop\CalculatorShop\obj\Debug\CalculatorShop.csproj.GenerateResource.Cache
+C:\Users\Mukazika\Desktop\Project\CalculatorShop\CalculatorShop\obj\Debug\CalculatorShop.exe
+C:\Users\Mukazika\Desktop\Project\CalculatorShop\CalculatorShop\obj\Debug\CalculatorShop.pdb
